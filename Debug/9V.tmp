@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny13A"</DEVICE>
+ <WORKING_DIR>D:\Cloud.mail.ru\.ATMEL STUDIO\9V\9V\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\9V\9V\9V.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn13Adef.inc</FILE>
+  <FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\9V\9V\macro.inc</FILE>
+  <FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\9V\9V\interrupts.inc</FILE>
+  <FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\9V\9V\coreinit.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\9V\9V\Debug/9V.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>9V.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>9V.map</FILE>
+  <FILE>9V.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\9V\9V\interrupts.inc</FILE><LINE>43</LINE></Reset>
+  <ANA_COMP><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\9V\9V\interrupts.inc</FILE><LINE>24</LINE></ANA_COMP>
+  <ADC_COMPL><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\9V\9V\interrupts.inc</FILE><LINE>28</LINE></ADC_COMPL>
+  <lbl1><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\9V\9V\interrupts.inc</FILE><LINE>36</LINE></lbl1>
+  <RAM_Flush><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\9V\9V\coreinit.inc</FILE><LINE>2</LINE></RAM_Flush>
+  <Flush><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\9V\9V\coreinit.inc</FILE><LINE>6</LINE></Flush>
+  <main><FILE>D:\Cloud.mail.ru\.ATMEL STUDIO\9V\9V\9V.asm</FILE><LINE>47</LINE></main>
+ </LABELS>
+</ASSEMBLER_INFO>
